@@ -1,0 +1,18 @@
+[timestart] 0
+[size] 1920 1080
+[sst_width] 250
+[signals_width] 250
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+alu16_tb.op[3:0]
+@22
+alu16_tb.a[15:0]
+alu16_tb.b[15:0]
+alu16_tb.result[31:0]
+@28
+alu16_tb.zero
+alu16_tb.negative
+alu16_tb.carry
+alu16_tb.overflow
+alu16_tb.div_by_zero

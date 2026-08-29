@@ -1,0 +1,20 @@
+# Icarus Verilog compiled simulation binary
+*.vvp
+
+# VCD waveform dump
+*.vcd
+
+# Yosys synthesized netlist (generated)
+alu16_synth.v
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

@@ -82,7 +82,7 @@ The design is verified through a self-checking testbench with targeted edge-case
 
 ---
 ## Waveform Diagram
-![App Screenshot](Wave Diagram.png)
+![App Screenshot](Wave_Diagram.png)
 
 
 ## 🚀 Getting Started

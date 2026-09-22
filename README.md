@@ -81,16 +81,9 @@ The design is verified through a self-checking testbench with targeted edge-case
 | `4'b1111` | **PASS** | `result = a`, pass operand A through unchanged |
 
 ---
+## Waveform Diagram
+[App Screenshot](Wave Diagram.png)
 
-## 📊 Synthesis Results (Yosys)
-
-Synthesized to a generic gate-level netlist — purely combinational, zero flip-flops. Run `make synth` to reproduce the netlist and view the full cell statistics, or `make stats` for ABC gate-mapped area estimates.
-
-**Gate-level Schematic (Yosys + Graphviz):**
-
-> Generated from `alu16_schematic.dot` — open with Graphviz or render with `dot -Tpng alu16_schematic.dot -o alu16_schematic.png`
-
----
 
 ## 🚀 Getting Started
 
